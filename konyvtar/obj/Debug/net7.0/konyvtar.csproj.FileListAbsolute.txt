@@ -1,0 +1,15 @@
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/bin/Debug/net7.0/konyvtar
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/bin/Debug/net7.0/konyvtar.deps.json
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/bin/Debug/net7.0/konyvtar.runtimeconfig.json
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/bin/Debug/net7.0/konyvtar.dll
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/bin/Debug/net7.0/konyvtar.pdb
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.csproj.AssemblyReference.cache
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.AssemblyInfoInputs.cache
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.AssemblyInfo.cs
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.csproj.CoreCompileInputs.cache
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.dll
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/refint/konyvtar.dll
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.pdb
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/konyvtar.genruntimeconfig.cache
+/Volumes/T7 Shield/school/ikt/konyvtar/konyvtar/obj/Debug/net7.0/ref/konyvtar.dll
